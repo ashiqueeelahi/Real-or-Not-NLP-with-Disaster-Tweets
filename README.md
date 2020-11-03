@@ -4,7 +4,7 @@ In this project I used tensorflow 2 for natural language processing. To be speci
 
 <h2>The Data</h2>
 
-https://www.kaggle.com/andrewmvd/fetal-health-classification
+https://www.kaggle.com/c/nlp-getting-started/data
 
 <h2>Used In This Project</h2>
 
